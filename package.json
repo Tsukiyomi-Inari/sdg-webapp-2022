@@ -5,8 +5,8 @@
   "main": "server.js",
   "scripts": {
 
-    "start": "node backend/server.js",
-    "server": "nodemon backend/server.js",
+    "start": "node serve/server.js",
+    "server": "nodemon server/server.js",
     "client": "npm start --prefix frontend",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
