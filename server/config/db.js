@@ -1,4 +1,4 @@
-// Database configuration 
+// Database configuration connection
 
 const mongoose = require('mongoose');
 const dotenv = require('dotenv').config();
