@@ -1,4 +1,5 @@
 // Header Component
+
 import {FaSignInAlt , FaSignOutAlt, FaUser} from 'react-icons/fa'
 import {Link} from 'react-router-dom'
 
@@ -14,6 +15,7 @@ function Header(){
                         <FaSignInAlt /> Login
                     </Link>
                 </li>
+                <li><FaSignOutAlt/></li>
                     <li>
                     <Link to='/register'>
                         <FaUser /> Register

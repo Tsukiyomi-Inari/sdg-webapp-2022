@@ -1,5 +1,6 @@
 // User login 
-import {useState, useEffect} from 'react'
+
+import {useState, createAsyncThunk} from 'react'  
 import {FaSignInAlt} from 'react-icons/fa'
 
 function Login(){
