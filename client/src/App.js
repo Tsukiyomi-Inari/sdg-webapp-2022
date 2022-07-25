@@ -1,4 +1,5 @@
-//
+//Main component acting as container for all other components
+
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import Header from './components/header';
 import Dashboard from './pages/dashboard';
