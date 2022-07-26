@@ -7,6 +7,7 @@ import Header from './components/header';
 import Dashboard from './pages/dashboard';
 import Register from './pages/register';
 import Login from './pages/login';
+import Footer from './components/footer';
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
         <Route path='/register' element={<Register/>} />
 
       </Routes>
+      <Footer />
     </div>
     </Router>
     <ToastContainer />
