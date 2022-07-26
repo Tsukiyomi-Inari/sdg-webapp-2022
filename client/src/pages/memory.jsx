@@ -1,6 +1,7 @@
 //Memory Game page 
 // will change depending on actions of user with the UI
 
+import React from 'react'
 
 function MemoryGame(){
     return (

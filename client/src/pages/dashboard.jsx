@@ -1,5 +1,6 @@
 //  Dashboard only accessible after authenication
 
+import React from 'react'
 
 function Dashboard(){
     return (

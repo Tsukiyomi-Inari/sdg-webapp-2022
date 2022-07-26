@@ -1,13 +1,15 @@
 //Main component acting as container for all other components
 
+import React from 'react'
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
-import { ToastContainer } from 'react-toastify';
+import { ToastContainer } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css'
-import Header from './components/header';
-import Dashboard from './pages/dashboard';
-import Register from './pages/register';
-import Login from './pages/login';
-import Footer from './components/footer';
+import Header from './components/Header'
+import Main from './pages/Main'
+import Dashboard from './pages/Dashboard'
+import Register from './pages/Register'
+import Login from './pages/Login'
+import Footer from './components/Footer'
 
 
 function App() {
@@ -17,9 +19,10 @@ function App() {
     <div className="container">
       <Header />
       <Routes>
-        <Route path='/' element={<Dashboard/>} />
-        <Route path='/login' element={<Login/>} />
-        <Route path='/register' element={<Register/>} />
+        <Route path="/" element={<Main />} />
+        <Route path='/dashboard' element={<Dashboard />} />
+        <Route path='/login' element={<Login />} />
+        <Route path='/register' element={<Register />} />
 
       </Routes>
       <Footer />
@@ -27,7 +30,7 @@ function App() {
     </Router>
     <ToastContainer />
     </>
-  );
+  )
 }
 
 export default App;
