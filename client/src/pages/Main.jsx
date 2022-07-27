@@ -1,14 +1,17 @@
 // Main Page
 
-import React from 'react'
+import SDGGrid from '../components/SDGGrid'
+
 
 function Main(){
    return (
     <>
+    <section>
+           <h1 className='heading'>Welcome to SDG: Learn & Goals</h1>
+    </section>
         <section className='main-container'>
         <div>
-           <h1 className='heading'>Welcome to SDG: Learn & Goals</h1>
-
+            <SDGGrid />
         </div>
         </section>
     </>
