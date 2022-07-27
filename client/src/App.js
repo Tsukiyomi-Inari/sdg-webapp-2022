@@ -1,15 +1,15 @@
 //Main component acting as container for all other components
 
-import React from 'react'
+
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
-import { ToastContainer } from 'react-toastify'
-import 'react-toastify/dist/ReactToastify.css'
 import Header from './components/Header'
 import Main from './pages/Main'
 import Dashboard from './pages/Dashboard'
 import Register from './pages/Register'
 import Login from './pages/Login'
 import Footer from './components/Footer'
+import { ToastContainer } from 'react-toastify'
+import 'react-toastify/dist/ReactToastify.css'
 
 
 function App() {

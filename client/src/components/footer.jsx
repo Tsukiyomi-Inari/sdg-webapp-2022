@@ -3,8 +3,8 @@
 const Footer = () => {
     return (
         <footer>
-            <p>Copyrights &copy; 2022</p>
-            <strong>SDG Learn & Goal</strong>
+            <p>Copyrights &copy; 2022  <strong>SDG Learn & Goal</strong></p>
+            
         </footer>
     )
 }

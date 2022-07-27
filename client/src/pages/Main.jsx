@@ -7,7 +7,8 @@ function Main(){
     <>
         <section className='main-container'>
         <div>
-            
+           <h1 className='heading'>Welcome to SDG: Learn & Goals</h1>
+
         </div>
         </section>
     </>
