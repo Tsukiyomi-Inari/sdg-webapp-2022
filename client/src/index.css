@@ -39,10 +39,14 @@ h3 {
 
 .container {
   width: 100%;
-  max-width: 960px;
+  max-width: 1000px;
   margin: 0 auto;
   padding: 0 20px;
   text-align: center;
+}
+
+.main-container {
+  max-width: 960px;
 }
 
 .header {
