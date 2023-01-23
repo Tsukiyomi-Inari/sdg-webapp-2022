@@ -1,0 +1,246 @@
+{
+	"_id": ObjectID("SDG01"),
+	"goal": "No Poverty",
+	"slogan": "End poverty in all itsforms everywhere"
+	"targets" ["End extreme poverty for everyone", 
+				"Implement social protection programs for the poor and vulnerable",
+				"Ensure that everyone has equal rights to economic resources, such as control over land, property, inheritance, natural resources and financial services",
+				"Help improve bulnerable people's resilience in the face of environmental and climate-related shocks and disasters",
+				"Improve the political, economic, and social support for poverty-reduction strategies"],
+	"why": [
+				{
+					"reason": "Poverty exists in many forms",
+					"explanation": "Poverty can be understood in a variety of forms, measures, and degrees, such as these key terms: absolute poverty and relative poverty. Absolute poverty represents an internationally set standard of measuring poverty in relation to a person's ability to meet their basic human needs. Relative poverty is defined and measured by income inequalities of a particular social contect, meaning that people are in poverty if they fall below prevailing standards in their region."
+				},
+				{
+					"reason": "Poverty is a cycle",
+					"explanation": "Poverty is more than not having enough money, it also includes the lack of basic services such as education, food security, social discrimination or lack of participation in decision-making. It takes money, resources and power to be able to engage with your community and support yourself. 
+					As described by the UN, poverty includes a lack of choices and opportunities. Without access to basic resources and services, poverty impacts people's basic survival and participation in society.
+					
+					When you are poor, you don't have enough money to feed or clothe your family, go to school or have land to grow your own food or earn a living. Living in poverty also means you are susceptible to violence and live in a fragine environment, or might live without access to clean water or sanitation."
+				},
+				{
+					"reason": "Poverty is measurable",
+					"explanation": "One way we can measure poverty is through the poverty line, or the minimum daily income that will allow you to meet your basic needs. A majority of people living on less than $1.90 a day live in Southern Asia and sub-Saharan Africa.They account for about 70 per cent of the global total of extremely poor people. Calculating a poverty rate measures the number of people living below this daily income level."
+				}
+			],
+	"who_what": [
+					{
+						"who": "The rich and poor",
+						"explanation": "Both locally and internationally, there is a widening gap between rich and poor; however, this is not a simple question of extreme wealth in developed countries and extreme poverty in developing countries. Using data, European reasercher Hans Rosling founded the Gap Minder Project that shows how wealth and poverty have been shifting over time. Take a peek and see how people in communities around the world live on their daily income."
+					},
+										{
+						"who": "Children",
+						"explanation": "On a local level, many issues of poverty are impacting Manitobians. From homelessness to child poverty, to the over-representation of Indigenous people in the criminal justice system, poverty has many sources and impacts in our community. In particular, Manitoba has the highest child-poverty rate in the country, with nearly 29 per cent of children living in poverty in the province.
+						Within Canada, the Canadian Center for Policy Alternatives found that in 2016, 60 per cent of children living on reserves were living in poverty. Barriers such as underfunded schools and child welfare services impact the ability for children to realize their potential. This is part of the problem of the cycle of poverty - the set of factors or events that make it difficult for an individual or group of people to get out of poverty without intervention."
+					},
+										{
+						"who": "Women",
+						"explanation": "Internationally, women are more vulnerable to the effects of climate change because they constitute the majority of the world's poor. Because two-thirds of the working women in developing countries make a living from agricultural rescources for their income, they are more vulnerable when it comes to poverty when those resources are negatively impacted by climate change."
+					}
+				],
+	"what": [
+				"Tackling huge systemic issues like poverty takes alot of coordinated effort from a number of stakeholders, or people who have an interest in seeing this issue resolved. From large corporations to smaller local organizations, everyone is capable of tackling poverty issues.",
+				"Advocating for effective pverty reduction strategies is a great way goverments, organizations and decision-makers can help on a number of different levels. From income supports to child care programs, poverty-reduction programs enable people in poverty to create wealth for themselves and end  their cycle of poverty.",
+				"In order to make a difference in ending poverty as we know it, we need programs at the local, national and international levels. Some strategies are introduced to empower particular groups of people, like women, while others attempt to address particular elements of poverty, like debt or food insecurity.",
+				"Another strategy for poverty-reduction is using a universal basic income as a means of supporting citizens or residents of a region or country to receive an amount of money either from a goverment or public institution. The idea was explored in the town of Dauphin in Manitoba in 1970 to see the impact of giving people money instead of targeted aid. The results found that, while not cheap, the program was able to stabilize poverty, reduce hospitalization rates and saw more teenagers staying in school."
+			],
+	"connections": [
+					{
+						"con_goals": ["ObjectID('SDG12')", "ObjectID('SDG14')", "ObjectID('SDG15')"],
+						"about": "The more the global population grows, the more burden is placed on the environment, making poverty a concern for our planet as well. From harmful practices which lead to deforestation, air and water pollution, soil erosion and increased consumption, impoverished communities can contribute to environmental degradation in many ways. Education is needed to learn about proper and harmless methods to dispose waste and devlop sustainable agricultural systems. Programs like re-forestation or improved waste managment systems can help restore the impact of humanity and poverty on our environment."
+					},
+					{
+						"con_goals": ["ObjectID('SDG08')", "ObjectID('SDG10')"],
+						"about: "As a social problem, poverty and income inequality have been a reason for protests and social revolutions. As an example, the Occupy Wall Street movement wanted to change the way money, wealth and income are distributed in the United States. The movement's focus is to change the fact that there is a very big difference between how much money and walth rich and poor people have. A group of protesters acame together in New York City on September 17, 2011 and began gathering in Zuccotti Park in downtown Manhattan near Wall Steet. The objective of the protest was to bring attention and political action to economic inequalities worldwide."
+					},
+					{
+						"con_goals": ["ObjectID('SDG05')", "ObjectID('SDG10')"],
+						"about": "Poverty continues to impact women more than men. Women are over-represented in the ranks of the poor and under-represented among upper income earners. According to the Center for Social Justice, in Canada the poverty rate is 20 per cent for women in general; 37 per cent for women of colour; and 43 per cent for Indigenous women. While issues of poverty affect populations in general, the above statistics show that they affect people within these groups uniquely."
+					}
+					],
+	"inaction":		[
+						"From an economic perspective, poverty is expensive. It is not just about gibing money to people to support them, but orchestrating an entire network of support. From healthcare and just to education and social welfare, it costs of the Province of Ontario (in collaboration with the federal goverment) between $10.4 billion and $13.1 billion a year to reduce poverty in the province.",
+						"One of the biggest challenges to alleviating poverty is to tackle all of its various root causes. While it might be easy to assume that tkaing care of someone's income or personal finances might solve the problem, the causes of poverty can often be social or health-based, or experiences as a result of war or climate change.",
+						"Problems with physical or mental health, experiences of violence, exploitation and marginalization contribute to putting proplr in positions of poverty. Without taking the time to understand what the social and emotional causes of pverty are, we might be putting out efforts into a short-term solition of a long-term problem."
+					],
+	"action":	[
+					{
+						"link": "http://www.dosomething.org/us",
+						"info": "Select an issue you want to take action on and generate ideas based on the options you choose."
+					},
+					{
+						"link": "http"//www.one.org/international/take-action/generaction/",
+						"info": "Sign the ONE campaign to tell G20 leaders that girls count and poverty is sexist."
+					},
+					{
+						"link": "http://www.girlguides.ca/web/GGC/Programs/NSP/GGC/Programs/National_Service_Project.aspx",
+						"info": "Take action through groups you may alredy be part of, such as Girl Guides of Canada. They have developed a national service project that challenges girls to take action in their own communities."
+					}
+				],
+	"reflection": [
+					"How do you feel about the issue now that you know more about it?", 
+					
+					"How might this issue have been prevented? What could have been done differently?",
+					
+					"How has this problem changed over time? Where do you see it going in the future?"
+				]
+},
+{
+	"_id": ObjectID("SDG02"),
+	"goal": "Zero Hunger",
+	"slogan": "End hunger, achieve food security and improved nutition and promote sustainable agriculture"
+	"targets" [
+				"By 2030, hunger will be readicated and all people, particularly those most vulnerable, will have access to nutitious, sufficient food all year round",
+				""
+			  ],
+	"why": [
+				{
+					"reason": "",
+					"explanation": ""
+				},
+				{
+					"reason": "",
+					"explanation": ""
+				},
+				{
+					"reason": "",
+					"explanation": ""
+				}
+			],
+	"who_what": [
+					{
+						"who": "",
+						"explanation": ""
+					},
+										{
+						"who": "",
+						"explanation": ""
+					},
+										{
+						"who": "",
+						"explanation": ""
+					}
+				],
+	"what": [
+				"",
+				"",
+				""
+			],
+	"connections": [
+					{
+						"con_goals": ["ObjectID('SDG12')", "ObjectID('SDG14')", "ObjectID('SDG15')"],
+						"about": ""
+					},
+					{
+						"con_goals": ["ObjectID('SDG08')", "ObjectID('SDG10')"],
+						"about: ""
+					},
+					{
+						"con_goals": ["ObjectID('SDG05')", "ObjectID('SDG10')"],
+						"about": ""
+					}
+					],
+	"inaction":		[
+						"",
+						"",
+						""
+					],
+	"action":	[
+					{
+						"link": "",
+						"info": ""
+					},
+					{
+						"link": "",
+						"info": ""
+					},
+					{
+						"link": "",
+						"info": ""
+					}
+				],
+	"reflection": [
+					"", 
+					
+				]
+},
+{
+	"_id": ObjectID("SDG03"),
+	"goal": "",
+	"slogan": ""
+	"targets" [
+				"",
+				""
+			  ],
+	"why": [
+				{
+					"reason": "",
+					"explanation": ""
+				},
+				{
+					"reason": "",
+					"explanation": ""
+				},
+				{
+					"reason": "",
+					"explanation": ""
+				}
+			],
+	"who_what": [
+					{
+						"who": "",
+						"explanation": ""
+					},
+										{
+						"who": "",
+						"explanation": ""
+					},
+										{
+						"who": "",
+						"explanation": ""
+					}
+				],
+	"what": [
+				"",
+				"",
+				""
+			],
+	"connections": [
+					{
+						"con_goals": ["ObjectID('SDG12')", "ObjectID('SDG14')", "ObjectID('SDG15')"],
+						"about": ""
+					},
+					{
+						"con_goals": ["ObjectID('SDG08')", "ObjectID('SDG10')"],
+						"about: ""
+					},
+					{
+						"con_goals": ["ObjectID('SDG05')", "ObjectID('SDG10')"],
+						"about": ""
+					}
+					],
+	"inaction":		[
+						"",
+						"",
+						""
+					],
+	"action":	[
+					{
+						"link": "",
+						"info": ""
+					},
+					{
+						"link": "",
+						"info": ""
+					},
+					{
+						"link": "",
+						"info": ""
+					}
+				],
+	"reflection": [
+					"", 
+					
+				]
+}
